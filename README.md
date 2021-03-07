@@ -14,7 +14,7 @@ A text based game made in Unity.
     - [S.6 Try to find a sharp object](#s6-try-to-find-a-sharp-object)
     - [S.7 Sleep](#s7-sleep)
     - [S.8 Intimidate](#s8-intimidate)
-    - [S.9 Hit'em with your head](#.9-hit'em-with-your-head)
+    - [S.9 Hit'em with your head](#s9-hitem-with-your-head)
 
 ## The story
 
