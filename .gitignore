@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+# Unity's official documentation on SCM: https://docs.unity3d.com/2020.2/Documentation/Manual/ExternalVersionControlSystemSupport.html
+#
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -9,6 +11,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Uu]serSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -21,6 +24,9 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Visual Studio configuration file
+*.vsconfig
 
 # Gradle cache directory
 .gradle/
