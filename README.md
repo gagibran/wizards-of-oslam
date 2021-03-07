@@ -6,15 +6,15 @@ A text based game made in Unity.
 
 - [The story](#the-story)
 - [States](#states)
-    - [S.1 Inside the cult shop](#s.1.-inside-the-cult-shop)
-    - [S.2 Loosen hands and feet](#s.2.-loosen-hands-and-feet)
-    - [S.3 Scream for help](#s.3.-scream-for-help)
-    - [S.4 Pretend to be asleep](#s.4.-pretend-to-be-asleep)
-    - [S.5 Continue to force to loosen your hands](#s.5-continue-to-force-to-loosen-your-hands)
-    - [S.6 Try to find a sharp object](#s.6-try-to-find-a-sharp-object)
-    - [S.7 Sleep](#s.7-sleep)
-    - [S.8 Intimidate](#s.8-intimidate)
-    - [S.9 Hit'em with your head](#s.9-hit'em-with-your-head)
+    - [S.1 Inside the cult shop](#s1-inside-the-cult-shop)
+    - [S.2 Loosen hands and feet](#s2-loosen-hands-and-feet)
+    - [S.3 Scream for help](#s3-scream-for-help)
+    - [S.4 Pretend to be asleep](#s4-pretend-to-be-asleep)
+    - [S.5 Continue to force to loosen your hands](#s5-continue-to-force-to-loosen-your-hands)
+    - [S.6 Try to find a sharp object](#s6-try-to-find-a-sharp-object)
+    - [S.7 Sleep](#s7-sleep)
+    - [S.8 Intimidate](#s8-intimidate)
+    - [S.9 Hit'em with your head](#.9-hit'em-with-your-head)
 
 ## The story
 
