@@ -1,2 +1,3 @@
-# wizards-of-oslam
-A text based game made in Unity
+# Wizards of Oslam
+
+A text based game made in Unity.
