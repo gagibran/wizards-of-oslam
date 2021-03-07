@@ -12,7 +12,9 @@ A text based game made in Unity.
     - [S.4 Pretend to be asleep](#s.4.-pretend-to-be-asleep)
     - [S.5 Continue to force to loosen your hands](#s.5-continue-to-force-to-loosen-your-hands)
     - [S.6 Try to find a sharp object](#s.6-try-to-find-a-sharp-object)
-    - [S.7 Sleep](#s.6-sleep)
+    - [S.7 Sleep](#s.7-sleep)
+    - [S.8 Intimidate](#s.8-intimidate)
+    - [S.9 Hit'em with your head](#s.9-hit'em-with-your-head)
 
 ## The story
 
@@ -25,7 +27,7 @@ His name is Cole Pane. He wakes up finding himself captive. His abductors, a cul
 Knowing a little about neuromancy, Cole finds an opportunity to escape by accessing the matrix and finding out more about his abductors, their final goals with the data, and his current location.
 
 Wrapping up, we have:
-1. **The player**: Cole, the CEO;
+1. **The player**: Cole Pane, the CEO;
 2. **The situation**: His kidnapping;
 3. **The setting**: Denver, Colorado;
 4. **The threat**: His death;
@@ -33,7 +35,7 @@ Wrapping up, we have:
 
 ## States
 
-The states and flow chart of the game's story were made using app.diagrams.net. The HTML of the flow chart can be found [here]().
+The states and flow chart of the game's story were made using app.diagrams.net. The HTML of the flow chart can be found [here](https://github.com/gagibran/wizards-of-oslam/blob/dev/wizards-of-oslam-game-flow.html).
 
 ### S.1 Inside the cult shop
 
@@ -95,9 +97,9 @@ What is your next action?
 
 ### S.6 Try to find a sharp object
 
-You spend sometime recovering from this wound, trying to get used to not having a tongue anymore. It's time to stand up and do something. With your hands and feet tied, you put a humongous effort to try to find a sharp object. There it is. A rusty almost loosen nail, coming from an empty wardrobe that you were leaning to sleep.
+With your hands and feet tied, you put a humongous effort to try to find a sharp object. There it is. A rusty almost loosen nail, coming from an empty wardrobe that you were leaning to sleep.
 
-As you pulled the nail with your mouth, some of your incisors break, but you don't feel much pain, since the anesthetic from the cauterizer is still in your blood.
+As you pulled the nail with your mouth, some of your incisors break, but you can't deal with the pain right now. It's time to go.
 
 With this nail and some contortion, you are able to cut your hands loose and feet loose.
 
@@ -107,3 +109,28 @@ What is your next action?
 
 ### S.7 Sleep
 
+You decide that the best option is to sleep and to wait for your rescue. Cole Pane, the brilliant CEO of the giant cybersecurity Asla Inc., that controls the region of Denver cannot be missing for too long. It's dangerous. Too much information can be extracted.
+
+You lay your head down, leaning on an empty wardrobe and sleep. Sometime passes. You wake up realizing that two elves are carrying you to a room with a chair filled with wires and a terminal. They know that you can access the matrix.
+
+As they hook you up in the chair, you try desperately to think of a way to commit suicide. If they extract the things that you know, Denver is definitely doomed. But it is helpless. They force you to go inside the matrix, hacking into your memories. They got everything they need. You are now a useless shell to them. You are killed on the spot.
+
+Press Enter to continue.
+
+### S.8 Intimidate
+
+As you try to intimidate the humanoid figure, he smiles. He says: "You corporates think everything is about yous. This's bigger than ya, me, and this shithole, for that matter. Oslam will rise. Yous will fall."
+
+He throws you back to the ground and leaves, aslamming the dor shut and locking it.
+
+What is your next action?
+1. Try to find a sharp object;
+2. Sleep.
+
+### S.9 Hit'em with your head
+
+You hit him hard, right on the nose. Bleed pours out of it, like a waterfall. You fall on the ground, still firmly tied up. He proceeds to violently and coldly kick you on the head hard. You pass out. After sometime, you wake up realizing that two elves are carrying you to a room with a chair filled with wires and a terminal. They know that you can access the matrix.
+
+As they hook you up in the chair, you try desperately to think of a way to commit suicide. If they extract the things that you know, Denver is definitely doomed. But it is helpless. They force you to go inside the matrix, hacking into your memories. They got everything they need. You are now a useless shell to them. You are killed on the spot.
+
+Press Enter to continue.
