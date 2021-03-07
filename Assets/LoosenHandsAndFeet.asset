@@ -18,6 +18,6 @@ MonoBehaviour:
     sharp hissle fills the room as you mistakenly pushes a small sized wooden wardrobe
     that you once leaned your heavy head to rest.\n\nYou hear spaced heavy footsteps
     coming. They sound like someone is crushing a stone with a hammer.\n\nWhat's
-    your next action:\n\n\t1. Pretend to be asleep;\n\t2. Continue to force to loosen
+    your next action:\n\t1. Pretend to be asleep;\n\t2. Continue to force to loosen
     your hands."
   nextStates: []

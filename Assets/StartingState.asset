@@ -16,9 +16,8 @@ MonoBehaviour:
     locking a blindfold onto your eyes.\n\nYou perceive bland gentle mark that was
     left by the blindfold onto the stubby skin on your cheeks.Your hands and feet
     are steadily tighten and squeezed against each other.\n\nA piece of soft silk
-    is also fastened against your teeth and tongue.\n\nWhat's your next action:\n\t\n\t1.
-    Force to loosen your hands and feet;\n\t2. Scream for help;\n\t3. Sleep."
+    is also fastened against your teeth and tongue.\n\nWhat's your next action:\n\t1.
+    Force to loosen your hands and feet;\n\t2. Scream for help."
   nextStates:
   - {fileID: 11400000, guid: 84ae0a25deaee7041a07e6eced6d603b, type: 2}
   - {fileID: 11400000, guid: 124402284e858344a88a7be1cf5181a5, type: 2}
-  - {fileID: 11400000, guid: 7727b21e49192614d961a631023c2cf0, type: 2}

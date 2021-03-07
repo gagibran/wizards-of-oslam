@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9043eb59df1e41449d8ef4a43009c4c, type: 3}
-  m_Name: ScreamHelp
+  m_Name: PretendToBeAsleep
   m_EditorClassIdentifier: 
-  storyText: Screaming
+  storyText: 
   nextStates: []
