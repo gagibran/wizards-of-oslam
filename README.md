@@ -7,7 +7,7 @@ A text based game made in Unity.
 - [The story](#the-story)
 - [States](#states)
     - [S.1 Inside the cult shop](#s1-inside-the-cult-shop)
-    - [S.2 Loosen hands and feet](#s2-loosen-hands-and-feet)
+    - [S.2 Force to loosen hands and feet](#s2-force-to-loosen-hands-and-feet)
     - [S.3 Scream for help](#s3-scream-for-help)
     - [S.4 Pretend to be asleep](#s4-pretend-to-be-asleep)
     - [S.5 Continue to force to loosen your hands](#s5-continue-to-force-to-loosen-your-hands)
@@ -18,6 +18,7 @@ A text based game made in Unity.
     - [S.10 Sneak through the door to the next room](#s10-sneak-through-the-door-to-the-next-room)
     - [S.11 Rush to the exit](#s11-rush-to-the-exit)
     - [S.12 Connect into the matrix with your cyberterminal](#s12-connect-into-the-matrix-with-your-cyberterminal)
+    - [S.13 Continue on exploring](#s13-continue-on-exploring)
     - [Good ending](#good-ending)
     - [Game over](#game-over)
 
@@ -46,7 +47,7 @@ The states and flow chart of the game's story were made using app.diagrams.net. 
 
 After some titanic effort, you were able to loosen the knot that was locking a blindfold onto your eyes.
 
-You perceive bland gentle mark that was left by the blindfold onto the stubby skin on your cheeks.Your hands and feet are steadily tighten and squeezed against each other.
+You perceive a bland gentle mark that was left by the blindfold onto the stubby skin on your cheeks.Your hands and feet are steadily tighten and squeezed against each other.
 
 A piece of soft silk is also fastened against your teeth and tongue.
 
@@ -54,7 +55,7 @@ What is your next action?
 1. Force to loosen your hands and feet;
 2. Scream for help.
 
-### S.2 Loosen hands and feet
+### S.2 Force to loosen hands and feet
 
 Squeezing and shaking your hands as hard as you can, but trying to make as little noise as possible, the knot that is firmly starts to loosen a bit.
 
@@ -82,7 +83,7 @@ As you close your eyes, you lay down on the ground, you try to push the blindfol
 
 Harsh hand hold you up violently. The blindfold comes off. You see a pitch-dark, gigantic human. He has robotic left leg and left arm. He harshly removes the piece of silk that was onto your mouth.
 
-"You weren't trying to leave our humble abode, were you? Fucking corporate scum!
+"You weren't trying to leave our humble abode, were you? Fucking corporate scum!"
 
 What is your next action?
 1. (Intimidate) "As soon as I get out, this place will be blown to hell.";
@@ -161,7 +162,7 @@ Press Enter to continue.
 
 ### S.12 Connect into the matrix with your cyberterminal
 
-You pull a fiber-optic cable from the back of your head an plug it into the terminal. Knowing a great deal of cryptography, algorithms, and having a couple of injection scripts that you coded yourself hard-coded into your brain, you hope that this is enough to melt their firewalls. Inside the matrix you are. Your avatar, a reddish amorphous fire-like, ever-changing chape creature. No surprise, a simple brute force was enough to deal with any passwords standing your way. No one seems to care about cybersecurity, that's one of the reasons you were kidnapped in the first place. Like a walk in the park, you run algorithms querying maps, location, information - every piece of data you can find about your captors. And surely enough, what you find is utmost concerning. After digesting it all, you find a map of the underground.
+You pull a fiber-optic cable from the back of your head an plug it into the terminal. Knowing a great deal of cryptography, algorithms, and having a couple of injection scripts that you coded yourself hard-coded into your brain, you hope that this is enough to melt their firewalls. Inside the matrix you are. No surprise, a simple brute force was enough to deal with any passwords standing your way. Like a walk in the park, you run algorithms querying maps, location, information - every piece of data you can find about your captors. And surely enough, what you find is utmost concerning. After digesting it all, you find a map of the underground.
 
 There you are, all along in an abode near Capitol Hill. There is a sort of escape tunnel in one of the rooms. You disable the cameras and any sort of alarms that may have been triggered by your escape. You sneak quickly to the room with the escape tunnel, traversing to your freedom.
 
@@ -189,8 +190,8 @@ Congratulations, runner!
 
 The Wizards of Oslam, a now well known group of mages and shamans that controls the Denver area with fear and brutality, is one step closer in achieving their objective: creating a great dragon, Oslam, in order to take the whole East Cost, going head to head with the other great dragons.
 
-Their leader, a powerful mage by the name of Alladuhl, conducted a raid into the headquarters of Asla Inc., exploiting every little opened areas and massacrating every member of the company, making an altar in the CEO room with all of their heads, with ours in the center.
+Their leader, a powerful mage by the name of Alladuhl, conducted a raid into the headquarters of Asla Inc., exploiting every little opened areas and devastating every member of the company, making an altar in the CEO room with all of their heads, with yours, the once great Cole Pane, leader of the most prominent cybersecurity company in Denver, in the center.
 
 With the fall of Denver and Asla Inc., they have almost all the resources required to achieve this grim future.
 
-Game over.
+Game Over.

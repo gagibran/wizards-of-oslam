@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9043eb59df1e41449d8ef4a43009c4c, type: 3}
+  m_Name: S6_TryToFindSharpObject
+  m_EditorClassIdentifier: 
+  storyText: "With your hands and feet tied, you put a humongous effort to try to
+    find a sharp object. There it is. A rusty almost loosen nail, coming from an
+    empty wardrobe that you were leaning to sleep.\r\n\r\nAs you pulled the nail
+    with your mouth, some of your incisors break, but you can't deal with the pain
+    right now. It's time to go.\r\n\r\nWith this nail and some contortion, you are
+    able to cut your hands and feet loose.\r\n\r\nWhat is your next action?\r\n\r\t1.
+    Sneak through the door to the next room;\r\n\t2. Rush to the exit."
+  nextStates:
+  - {fileID: 11400000, guid: bb04d37422b5c4649894061c512bc82f, type: 2}
+  - {fileID: 11400000, guid: 3f5512c580a27024a88b7bfcce12d7c8, type: 2}
