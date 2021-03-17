@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9043eb59df1e41449d8ef4a43009c4c, type: 3}
+  m_Name: SneakThroughDoor
+  m_EditorClassIdentifier: 
+  storyText: "You peak through the door and see a big straight corridor, with at
+    least a dozen doors. No one is standing guard. But as the CEO of Asla Inc., the
+    biggest cybersecurity company in the Denver area, you know that this won't be
+    an easy escape. There are probably a lot of hidden cameras in the area.\r\n\r\nIn
+    fact, you notice one right above your head, broadcasting the entire spectacle
+    to your abductors. You probably don't have enough time. You quietly sneak through
+    the corridor, since you don't know if someone's standing guard in the other rooms.
+    You hear load moans coming from some rooms. One of them, the last one, was opened.
+    You peak through and can't believe your luck. An intact, unguarded matrix terminal.\r\n\r\nWhat
+    is your next action?\r\n\t1. Connect into the matrix with your cyberterminal;\r\n   
+    \t2. Continue on exploring."
+  nextStates:
+  - {fileID: 11400000, guid: 8939b7bd9dae030408e7eae7e7a6ae0c, type: 2}
+  - {fileID: 11400000, guid: 9e07b7a2d3a065445a69b817b129ec53, type: 2}

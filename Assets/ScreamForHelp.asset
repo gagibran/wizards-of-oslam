@@ -20,6 +20,8 @@ MonoBehaviour:
     with the steel knife. You let out an even louder scream.\r\n\r\n\"Next time I'll
     rip your fucking dick off with my bare hands! Disgusting corporate trash!\" He
     shouts, as he halts the bleeding with a high-tech cauterizer. He leaves the room,
-    slamming the door shut.\r\n\r\nWhat is your next action:\r\n\t1. Try to find
-    a sharp object;\r\n\t2. Try to loosen your hands."
-  nextStates: []
+    slamming the door shut.\r\n\r\nWhat is your next action?\r\n\t1. Try to find
+    a sharp object;\r\n\t2. Sleep."
+  nextStates:
+  - {fileID: 11400000, guid: 41b0afde6a5dcde439ad4447c35b2ce5, type: 2}
+  - {fileID: 11400000, guid: 270577dd389400b42a49f93eef2e59a9, type: 2}

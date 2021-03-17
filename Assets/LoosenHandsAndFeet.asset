@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Squeezing and shaking your hands as hard as you can, but trying to
     make as little noise as possible, the knot that is firmly starts to loosen a
-    bit.\n\nAlthough you put an astronomical effort to be as quit as a it gets, a
-    sharp hissle fills the room as you mistakenly pushes a small sized wooden wardrobe
+    bit.\n\nAlthough you put an astronomical effort to be as quiet as a it gets,
+    a sharp hissle fills the room as you mistakenly pushes a small sized wooden wardrobe
     that you once leaned your heavy head to rest.\n\nYou hear spaced heavy footsteps
     coming. They sound like someone is crushing a stone with a hammer.\n\nWhat's
     your next action:\n\t1. Pretend to be asleep;\n\t2. Continue to force to loosen
     your hands."
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 1ee83fb4a227a5d41a85cc4e4cad8d5e, type: 2}
+  - {fileID: 11400000, guid: aa8844670ca9080468c957f17ce2056d, type: 2}

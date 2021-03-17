@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class GameLogic : MonoBehaviour
 {
 
-    // Serializing a field (or variable), making it available to edit into Unity. Using the data type UnityEngine.UI.Text:
+    // Serializing a field (or variable), making it available to edit into Unity, in "Game Logic". Using the data type UnityEngine.UI.Text:
     [SerializeField] Text textComponent;
     [SerializeField] State startingState;
 
@@ -36,19 +36,33 @@ public class GameLogic : MonoBehaviour
     private void ManageState()
     {
         State[] nextStates = state.GetNextStates();
+        string stateName = state.GetStateName();
 
-        // If the player types "1", "2", or "3" in their keyboard:
-        if (Input.GetKeyDown(KeyCode.Alpha1))
+        // If the player is close to a game over or winning the game:
+        if (stateName.Equals("Sleep") || stateName.Equals("HitemWithHead") || stateName.Equals("RushToExit") || 
+            stateName.Equals("ContinueExploring") || stateName.Equals("ConnectIntoTheMatrix"))
         {
-            state = nextStates[0];
+
+            // If the player hits the "enter" key:
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                state = nextStates[0];
+            }
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
+
+        // If the player is in a normal state:
+        else
         {
-            state = nextStates[1];
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
-        {
-            state = nextStates[2];
+
+            // If the player types "1" or "2" in their keyboard:
+            if (Input.GetKeyDown(KeyCode.Alpha1))
+            {
+                state = nextStates[0];
+            }
+            else if (Input.GetKeyDown(KeyCode.Alpha2))
+            {
+                state = nextStates[1];
+            }
         }
 
         // Updates the next state:

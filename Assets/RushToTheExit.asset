@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9043eb59df1e41449d8ef4a43009c4c, type: 3}
+  m_Name: RushToTheExit
+  m_EditorClassIdentifier: 
+  storyText: 'You peak through the door and see a big straight corridor, with at
+    least a dozen doors. No one is standing guard. But as the CEO of Asla Inc., the
+    biggest cybersecurity company in the Denver area, you know that this won''t be
+    an easy escape. There are probably a lot of hidden cameras in the area. In fact,
+    you notice one right above your head, broadcasting the entire spectacle to your
+    abductors. You probably don''t have enough time. You begin rushing your way to
+    the last door at the end of the corridor.
+
+
+
+    As soon as you open the door,
+    you get hit in the head by a bulkier goon. You are unconscious. You wake up realizing
+    that two elves are carrying you to a room with a chair filled with wires and
+    a terminal. They know that you can access the matrix. As they hook you up in
+    the chair, you try desperately to think of a way to commit suicide. If they extract
+    the things that you know, Denver is definitely doomed. But it is helpless. They
+    force you to go inside the matrix, hacking into your memories. They got everything
+    they need. You are now a useless shell to them. You are killed on the spot.
+
+
+
+    Press
+    Enter to continue.'
+  nextStates:
+  - {fileID: 11400000, guid: b2e20f487fd2f234197231080be782fa, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9043eb59df1e41449d8ef4a43009c4c, type: 3}
+  m_Name: GoodEnding
+  m_EditorClassIdentifier: 
+  storyText: 'During the very same night, raid with your most powerful street samurais,
+    mages, and deckers was successfully conducted. The head of a powerful mage by
+    the name of Alladuhl, the cult''s leader, was brought to your desk by your team
+    of mercenaries.
+
+    
+
+    The Wizards of Oslam, as they were called, were
+    a fast growing cult in which had mainly mages and shamans, that, through dark
+    magic, were trying to create a great dragon, Oslam, to manipulate the whole East
+    Cost, going head to head with the other great dragons. Seeking resources and
+    politically control the Denver area, you had been held captive. Were it not for
+    your great judgment and expertise, you would have had your brain hacked and Denver
+    would certainly fall, making it a great first step for the cult.
+
+    
+
+    Congratulations,
+    runner!'
+  nextStates: []
