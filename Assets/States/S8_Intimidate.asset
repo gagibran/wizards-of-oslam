@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "As you try to intimidate the humanoid figure, he smiles. He says: \"You
     corporates think everything is about yous. This's bigger than ya, me, and this
     shithole, for that matter. Oslam will rise. Yous will fall.\"\r\n\r\nHe throws
-    you back to the ground and leaves, aslamming the dor shut and locking it.\r\n\r\nWhat
+    you back to the ground and leaves, slamming the dor shut and locking it.\r\n\r\nWhat
     is your next action?\r\n\t1. Try to find a sharp object;\r\n\t2. Sleep"
   nextStates:
   - {fileID: 11400000, guid: 41b0afde6a5dcde439ad4447c35b2ce5, type: 2}

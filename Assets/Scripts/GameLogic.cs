@@ -33,11 +33,9 @@ public class GameLogic : MonoBehaviour
     private void ManageState()
     {
         State[] nextStates = state.GetNextStates();
-        string stateName = state.GetStateName();
 
         // If the player is close to a game over or winning the game:
-        if (stateName.Equals("S7_Sleep") || stateName.Equals("S9_HitemWithHead") || stateName.Equals("S11_RushToTheExit") ||
-            stateName.Equals("S12_ConnectIntoTheMatrix") || stateName.Equals("S13_ContinueExploring"))
+        if (nextStates.Length == 1)
         {
 
             // If the player hits the "enter" key:
@@ -50,15 +48,14 @@ public class GameLogic : MonoBehaviour
         // If the player is in a normal state:
         else
         {
+            for (int i = 0; i < nextStates.Length; i++)
+            {
 
-            // If the player types "1" or "2" in their keyboard:
-            if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Keypad1))
-            {
-                state = nextStates[0];
-            }
-            else if (Input.GetKeyDown(KeyCode.Alpha2) || Input.GetKeyDown(KeyCode.Keypad2))
-            {
-                state = nextStates[1];
+                // If the player types "1" or "2" in their keyboard:
+                if (Input.GetKeyDown(KeyCode.Alpha1 + i) || Input.GetKeyDown(KeyCode.Keypad1 + i))
+                {
+                    state = nextStates[i];
+                }
             }
         }
 

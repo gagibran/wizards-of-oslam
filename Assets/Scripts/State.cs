@@ -17,8 +17,4 @@ public class State : ScriptableObject
     {
         return nextStates;
     }
-    public string GetStateName()
-    {
-        return name;
-    }
 }

@@ -5,6 +5,7 @@
 # Unity's official documentation on SCM: https://docs.unity3d.com/2020.2/Documentation/Manual/ExternalVersionControlSystemSupport.html
 #
 /[Ll]ibrary/
+/[Aa]rtifacts/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -67,3 +68,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Zip files
+*.zip

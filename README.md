@@ -1,9 +1,8 @@
 # Wizards of Oslam
 
-A text based game made in Unity.
-
 ## Table of contents
 
+- [Play the game](#play-the-game)
 - [The story](#the-story)
 - [States](#states)
     - [S.1 Inside the cult shop](#s1-inside-the-cult-shop)
@@ -21,6 +20,10 @@ A text based game made in Unity.
     - [S.13 Continue on exploring](#s13-continue-on-exploring)
     - [Good ending](#good-ending)
     - [Game over](#game-over)
+
+## Play the game
+
+A text based game made in Unity. The game is hosted on [itch.io](https://itch.io/) and can be played [here](https://gabrielgibran.itch.io/wizards-of-oslam).
 
 ## The story
 
@@ -47,7 +50,7 @@ The states and flow chart of the game's story were made using app.diagrams.net. 
 
 After some titanic effort, you were able to loosen the knot that was locking a blindfold onto your eyes.
 
-You perceive a bland gentle mark that was left by the blindfold onto the stubby skin on your cheeks.Your hands and feet are steadily tighten and squeezed against each other.
+You perceive a bland gentle mark that was left by the blindfold onto the stubby skin on your cheeks. Your hands and feet are steadily tighten and squeezed against each other.
 
 A piece of soft silk is also fastened against your teeth and tongue.
 
@@ -127,7 +130,7 @@ Press Enter to continue.
 
 As you try to intimidate the humanoid figure, he smiles. He says: "You corporates think everything is about yous. This's bigger than ya, me, and this shithole, for that matter. Oslam will rise. Yous will fall."
 
-He throws you back to the ground and leaves, aslamming the dor shut and locking it.
+He throws you back to the ground and leaves, slamming the dor shut and locking it.
 
 What is your next action?
 1. Try to find a sharp object;
@@ -184,7 +187,7 @@ During the very same night, raid with your most powerful street samurais, mages,
 
 The Wizards of Oslam, as they were called, were a fast growing cult in which had mainly mages and shamans, that, through dark magic, were trying to create a great dragon, Oslam, to manipulate the whole East Cost, going head to head with the other great dragons. Seeking resources and politically control the Denver area, you had been held captive. Were it not for your great judgment and expertise, you would have had your brain hacked and Denver would certainly fall, making it a great first step for the cult.
 
-Congratulations, runner!
+Congratulations, runner! Press Enter to play again...
 
 ### Game over
 
@@ -194,4 +197,4 @@ Their leader, a powerful mage by the name of Alladuhl, conducted a raid into the
 
 With the fall of Denver and Asla Inc., they have almost all the resources required to achieve this grim future.
 
-Game Over.
+Game Over. Press Enter to play again...

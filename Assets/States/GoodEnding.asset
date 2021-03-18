@@ -17,18 +17,19 @@ MonoBehaviour:
     the name of Alladuhl, the cult''s leader, was brought to your desk by your team
     of mercenaries.
 
-    
 
-    The Wizards of Oslam, as they were called, were
-    a fast growing cult in which had mainly mages and shamans, that, through dark
-    magic, were trying to create a great dragon, Oslam, to manipulate the whole East
-    Cost, going head to head with the other great dragons. Seeking resources and
-    politically control the Denver area, you had been held captive. Were it not for
-    your great judgment and expertise, you would have had your brain hacked and Denver
-    would certainly fall, making it a great first step for the cult.
 
-    
+    The Wizards of Oslam, as they were called, were a fast
+    growing cult in which had mainly mages and shamans, that, through dark magic,
+    were trying to create a great dragon, Oslam, to manipulate the whole East Cost,
+    going head to head with the other great dragons. Seeking resources and politically
+    control the Denver area, you had been held captive. Were it not for your great
+    judgment and expertise, you would have had your brain hacked and Denver would
+    certainly fall, making it a great first step for the cult.
+
+
 
     Congratulations,
-    runner!'
-  nextStates: []
+    runner! Press Enter to play again...'
+  nextStates:
+  - {fileID: 11400000, guid: 63f7fbbb14f6a4e4d8e855d89efda5ef, type: 2}

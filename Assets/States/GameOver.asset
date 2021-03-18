@@ -17,22 +17,23 @@ MonoBehaviour:
     their objective: creating a great dragon, Oslam, in order to take the whole East
     Cost, going head to head with the other great dragons.
 
-    
 
-    Their leader,
-    a powerful mage by the name of Alladuhl, conducted a raid into the headquarters
+
+    Their leader, a
+    powerful mage by the name of Alladuhl, conducted a raid into the headquarters
     of Asla Inc., exploiting every little opened areas and devastating every member
     of the company, making an altar in the CEO room with all of their heads, with
     yours, the once great Cole Pane, leader of the most prominent cybersecurity company
     in Denver, in the center.
 
-    
 
-    With the fall of Denver and Asla Inc.,
-    they have almost all the resources required to achieve this grim future.
 
-    
+    With the fall of Denver and Asla Inc., they
+    have almost all the resources required to achieve this grim future.
+
+
 
     Game
-    Over.'
-  nextStates: []
+    Over. Press Enter to play again...'
+  nextStates:
+  - {fileID: 11400000, guid: 63f7fbbb14f6a4e4d8e855d89efda5ef, type: 2}
