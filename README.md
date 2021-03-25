@@ -1,5 +1,9 @@
 # Wizards of Oslam
 
+![Game](readme-images/game.png)
+
+A Shadowrun text based game made with Unity [2020.2.7f1](https://unity3d.com/de/unity/whats-new/2020.2.7).
+
 ## Table of contents
 
 - [Play the game](#play-the-game)
@@ -45,6 +49,10 @@ Wrapping up, we have:
 ## States
 
 The states and flow chart of the game's story were made using app.diagrams.net. The HTML of the flow chart can be found [here](https://github.com/gagibran/wizards-of-oslam/blob/dev/wizards-of-oslam-game-flow.html).
+
+The flow-chart:
+
+![Wizards Of Oslam Game Flow](readme-images/wizards-of-oslam-game-flow.png)
 
 ### S.1 Inside the cult shop
 
